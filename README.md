@@ -154,5 +154,4 @@ Projet de Number Guessr
     ○ les difficultées rencontrées
     
     ○ les améliorations possibles
-    
     ● Un exemple d’exécution (copie terminal ou screenshot)
